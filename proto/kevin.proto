@@ -1,0 +1,10 @@
+syntax = "proto3"
+
+package kevin
+
+option go_package = "./pb"
+
+service Kevin {
+
+}
+
